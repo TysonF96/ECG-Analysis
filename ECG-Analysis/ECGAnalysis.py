@@ -1,6 +1,4 @@
-#Pyplot allows us to plot our data
 import matplotlib.pyplot as plt
-#Import fft and ifft allows us to efficietly compute FFTs and their inverses
 from scipy.fftpack import fft
 from scipy.fftpack import ifft
 import math
