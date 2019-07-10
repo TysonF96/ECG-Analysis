@@ -3,7 +3,6 @@ from scipy.fftpack import fft
 from scipy.fftpack import ifft
 import math
 
-"""The main function can be modified to extract and plot data, find peaks, apply filters and more."""
 def main():
 	#Enter code here (see README.TXT for examples)
 	return 0
