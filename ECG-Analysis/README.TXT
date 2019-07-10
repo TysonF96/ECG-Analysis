@@ -2,7 +2,7 @@
 INTRODUCTION
 ##############################################################################################################
 
-This code was submitted for assessment as part of the subject COMP90072 at The University of Melbourne. The goal was to efficiently and accurately compute the respiratory rate of an individual using electrocardiography. 
+This code was submitted for assessment as part of the subject COMP90072 at The University of Melbourne. The goal was to efficiently and accurately compute the respiratory rate of an individual using electrocardiography. The data files were obtained from https://physionet.org/physiobank/database/apnea-ecg/.
 
 ##############################################################################################################
 PROGRAM STRUCTURE
